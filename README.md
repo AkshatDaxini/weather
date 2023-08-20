@@ -1,4 +1,49 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="public/logo192.png" alt="Project logo"></a>
+</p>
+
+<h3 align="center">Weather</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/AkshatDaxini/Weather)](https://github.com/AkshatDaxini/weather/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/AKshatDaxini/Weather)](https://github.com/AkshatDaxini/Weather/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
+
+---
+
+<!-- Description about your projects -->
+<p align = "center"> 
+ This website shows current weather of the selected locations and gives forecast for next 7 Days.For the selected location.
+
+<br>
+
+</p>
+
+## 🧐 About <a name = "about"></a>
+
+<!-- Write about 1-2 paragraphs describing the purpose of your project. -->
+
+This project will help you to have a better understanding about react and how to make API calls using react.<br>
+We are going to use two API's one for getting locations and another for getting current weather and forecast
+
+cities: <https://rapidapi.com/wirefreethought/api/geodb-cities><br>
+Weather : <https://openweathermap.org/>
+
+I suggest before starting please sign-up and get your API'keys and don't worry its all free.
+
+## Demo <a name="demo"></a>
+
+Live Demo(Random Link)
+**Screenshot**
+
+<p align="center"><img src="public/s1.png" alt="Demo Image" /></p>
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
